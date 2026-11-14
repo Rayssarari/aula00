@@ -13,7 +13,7 @@ public class Main {
 
 
         for (int i = 0; i < 3; i++) {
-            System.out.println("Digite 3 números inteiros de 0 a 100): ");
+            System.out.println("Digite 3 números inteiros: ");
             int numeros = darNumero.nextInt();
 
             if (i == 0) {
